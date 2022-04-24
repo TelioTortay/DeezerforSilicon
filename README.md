@@ -1,3 +1,5 @@
+![DeezerforSilicon Logo](DFS_Logo.jpg?raw=true)
+
 # DeezerforSilicon
 Deezer client for M1 Mac. Electron based.
 
