@@ -1,6 +1,12 @@
 # DeezerforSilicon
 Deezer client for M1 Mac. Electron based.
 
+## Installer DeezerforSilicon 🚀
+1. Téléchargez le .zip dans les [releases](https://github.com/TelioTortay/DeezerforSilicon/releases/tag/main-release).
+2. Copiez le .app dans votre dossier "Applications".
+3. Si vous avez une erreur de type "Développeur non reconnu", entrez dans le terminal et entrez ceci : ``sudo spctl --master-disable``
+4. Le tour est joué !
+
 ## Dépendences
 DeezerforSilicon dépend de :
 - NodeJS // npm
